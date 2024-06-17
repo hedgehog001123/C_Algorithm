@@ -1,5 +1,18 @@
 {
 	"files.associations": {
-		"dr17": "c"
+		"dr17": "c",
+		"random": "c",
+		"array": "c",
+		"*.tcc": "c",
+		"string": "c",
+		"unordered_map": "c",
+		"memory": "c",
+		"optional": "c",
+		"string_view": "c",
+		"istream": "c",
+		"ostream": "c",
+		"streambuf": "c",
+		"functional": "c",
+		"tuple": "c"
 	}
 }
