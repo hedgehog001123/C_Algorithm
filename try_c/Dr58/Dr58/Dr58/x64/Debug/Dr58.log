@@ -1,0 +1,4 @@
+﻿  Dr58.cpp
+C:\Users\hamada\Documents\C_Algorithm\try_c\Dr58\Dr58\glib.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\hamada\Documents\C_Algorithm\try_c\Dr58\Dr58\Dr58.cpp(160,13): warning C4002: 関数に似たマクロ呼び出し 'setangle' の引数が多すぎます
+  Dr58.vcxproj -> C:\Users\hamada\Documents\C_Algorithm\try_c\Dr58\Dr58\x64\Debug\Dr58.exe
